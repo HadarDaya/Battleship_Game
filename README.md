@@ -24,7 +24,7 @@
 - A ship will be considered completely destroyed if all squares it occupies are marked.
 - In every square surrounding a completely destroyed ship, a special symbol will appear to indicate that this square cannot be hit. This symbol also shows that the player did not hit a ship in the current square.
 
-- Symbol "X" will appear when:
+- ![image](https://github.com/user-attachments/assets/260fe867-6eba-439a-8f92-77d21f768675) will appear when:
   1. The player attempted to hit a square but missed.
   2. The player has destroyed the entire ship, so the symbol "X" will appear around all adjacent squares.
    
