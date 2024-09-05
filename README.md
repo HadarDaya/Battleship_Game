@@ -10,6 +10,9 @@
   2. Ships must not overlap each other.
   3. Ships must not be placed adjacent to each other.
   4. Ships must be placed entirely within the boundaries of the grid, without extending beyond it.
+ 
+     
+     ![image](https://github.com/user-attachments/assets/6e4ee84a-79bc-4370-991f-eb99fae5a89e)
 
 ### Game Flow
 - After both players have confirmed their boards by clicking the "START" button, the game will begin, with the human player going first.
