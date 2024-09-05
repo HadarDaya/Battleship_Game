@@ -28,7 +28,7 @@
   1. The player attempted to hit a square but missed.
   2. The player has destroyed the entire ship, so the symbol "X" will appear around all adjacent squares.
    
-- Symbol "Fire" will appear when the player successfully hits a square containing a ship.  
+- ![image](https://github.com/user-attachments/assets/e2a876c8-1051-49ec-b4da-605fa80e9149) will appear when the player successfully hits a square containing a ship.  
 
 ### Win Condition  
 - The player who successfully sinks all of the opponent's ships first will be declared the winner.
