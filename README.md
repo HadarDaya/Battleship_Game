@@ -1,4 +1,4 @@
-# Game instructions
+# Game instructions 
 ### Introduction to the game - arrangement of the submarine fleet
 - In this game, a single player competes against the computer. Each player views the opponent's board without seeing any images of their fleet. 
   The player can see their own board with their fleet's layout and the opponent’s hits.
