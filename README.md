@@ -23,14 +23,13 @@ The player can place ships by selecting grid squares, either by dragging and dro
 - If the player **hits a ship**, a **fire icon 🔥** will be displayed on the square. If the player **misses**, a **miss symbol ❌** will be shown.
 - Additionally, if a player makes a correct guess, they will be granted an extra turn.
 - A ship will be considered completely destroyed if all squares it occupies are marked.
-- In every square **surrounding a completely destroyed ship**, a **special symbol 🚫** will appear to indicate that this square **cannot be hit**. This symbol also shows that the player did not hit a ship in the current square.
-
- **❌ (Miss Symbol) will appear when:**
-  1. The player attempted to hit a square but **missed**.
-  2. The player has **destroyed the entire ship**, so the symbol **X** will appear around all adjacent squares.
-
-**🔥 (Hit Symbol) will appear when:**
-  - The player successfully **hits a square containing a ship**.
+- In every square **surrounding a completely destroyed ship**, a **special symbol 🚫** will appear to indicate that this square **cannot be hit**. This symbol also shows that the player did not hit a ship in the current square. <br/>
+      **❌ (Miss Symbol) will appear when:** <br/>
+       - The player attempted to hit a square but **missed**. <br/>
+       - The player has **destroyed the entire ship**, so the symbol **❌** will appear around all adjacent squares.
+     
+     **🔥 (Hit Symbol) will appear when:**  <br/>
+        - The player successfully **hits a square containing a ship**.
   
 ### 🏆 Win Condition
 - The player who **successfully sinks all of the opponent's ships first** will be declared **the winner**. 🎉
@@ -40,5 +39,6 @@ The player can place ships by selecting grid squares, either by dragging and dro
 
 ---
 
-**🎮 Game Ending**: Once a player wins by sinking all the opponent's ships, the game will display the winner, and a prompt will appear to either **restart the game** or **exit**.
+### 🎮 Game Ending:
+Once a player wins by sinking all the opponent's ships, the game will display the winner, and a prompt will appear to either **restart the game** or **exit**.
 
